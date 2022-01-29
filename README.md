@@ -1,7 +1,7 @@
 <img src="https://github.com/ahnafahmad/ahnafahmad/blob/main/Github_Banner.png" />
  
  # Ahnaf Ahmad
- ## I am a Front-End Developer & trying to be better.
+ ## I am a Front-End Developer & trying to be Full Stack Developer.
  <hr>
  
  <h3 align="left">Connect with me:</h3>
