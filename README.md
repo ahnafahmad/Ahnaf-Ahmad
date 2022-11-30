@@ -1,8 +1,10 @@
 <img src="https://github.com/ahnafahmad/ahnafahmad/blob/main/Github_Banner.png" />
  
 <h1 align="center">Hi 👋, I'm Ahnaf Ahmad</h1>
- 
+
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2686B0&center=true&vCenter=true&width=450&lines=Software+Manual+%26+Automation+Tester.)](https://git.io/typing-svg)
+ </p>
 
 <img align="right" alt="Coding" width="270" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
@@ -15,7 +17,7 @@
 - 📫 You can reach me at: **ahnafahmad95@gmail.com**
 
  
- <h3 align="center">Connect with me:</h3>
+ <br><h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://github.com/ahnafahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ahnaf-ahmad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahnaf-ahmad-364197132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahnaf-ahmad-364197132" height="30" width="40" /></a>
