@@ -2,7 +2,6 @@
  
 <h1 align="center">Hi 👋, I'm Ahnaf Ahmad</h1>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2686B0&center=true&vCenter=true&width=450&lines=Software+Manual+%26+Automation+Tester.)](https://git.io/typing-svg)
 
 
