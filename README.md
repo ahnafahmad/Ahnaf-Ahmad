@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="270" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
-- 🌱 I’m currently learning **Web & App Automation testing frameworks.**
+- 🌱 I’m currently working on **Web & App Automation Testing Tools & Frameworks.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahnafahmad?tab=repositories](https://github.com/ahnafahmad?tab=repositories)
 
